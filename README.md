@@ -1,12 +1,18 @@
-# Ice-Thikness Prediction On Trout Lake
+## Project Title
+
+Ice-Thikness Prediction On Trout Lake
+
+
+## Summary
+This project aims to accurately predict ice thickness in Trout Lake (46.31° N, 79.34° W), helping to solve the mystery of when it’s safe to access the ice during winter. My main goal is to keep my community safe during winter activities on the lake, such as ice fishing, skating, and cross-country skiing. Despite the efforts of local authorities, including the police and fire departments, to monitor ice conditions and guide the public, there are still fatalities. Therefore, education through an AI application dedicated to this issue is highly beneficial. To reduce the risks faced by lake users each year, my project seeks to predict ice thickness in my community. Every winter, residents suffer losses due to ice deterioration, and it's time to act using AI.
 
 
 ## Background 
-Creating an AI-powered application that estimates ice thickness to help users determine when to start and finish using the lake in winter and spring, respectively. Machine learning will analyze Weather Canada data to produce highly accurate ice-thickness predictions for Trout Lake through a Python program that integrates thermodynamic equations.
+Creating an AI-powered application that estimates ice thickness to help users determine when to start and finish using the lake in winter and spring, respectively. Machine learning will analyze Weather Canada data to produce highly accurate ice-thickness predictions for Trout Lake through a Python program that integrates thermodynamic equations. Even though the code is deterministic model itself, it can benefit a neural networks by learning new parameters, and it can also be used as a feauture generator such as the following structure: Weather data (from Weather Canada)→ Physical model (the code below) → ML model → Prediction
 
 
 ## Data and AI Techniques
-This project aims to accurately predict ice thickness in Trout Lake (46.31° N, 79.34° W), thereby solving the mystery of when to safely access an ice-covered lake in the wintertime. My primary goal is to keep my community safe during winter activities on the lake, such as ice fishing and cross-country skiing. This can be efficiently achieved through education. Despite the best efforts of local authorities, such as the police and fire departments, to monitor ice development and guide the public, there are still deaths. Therefore, education through an AI application dedicated to this issue proves very useful. To lessen the challenges faced by lake users each year, my project aims to predict ice thickness in my community. Each year, people in my community suffer losses due to ice deterioration, and this AI-based application will highlight factors beyond temperature that influence ice growth so that people will take them seriously.
+Using primarily optimization via a system of thermodynamic equations, a machine learning step will be necessary to have it learned from a database crucial inputs. , and this AI-based application will highlight factors beyond temperature that influence ice growth so that people will take them seriously.
 
 
 ## How is it used
